@@ -12,6 +12,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 30rem;
 }
 
 .topbar {
@@ -56,13 +57,16 @@ header {
   margin-bottom: 1rem;
 }
 
-.motto {
-  background-color: white;
-}
-
 .motto h2 {
   font-size: 2rem;
   font-weight: bold;
   line-height: 1.2;
-  padding: 1.5rem 5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  margin-top: 10rem;
+  margin-left: 34rem;
+  margin-right: 10rem;
+  background-color: white;
 }
