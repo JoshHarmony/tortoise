@@ -5,7 +5,7 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-/* Hea Styles */
+/* Header Styles */
 
 header {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png");
@@ -69,4 +69,32 @@ header {
   margin-left: 34rem;
   margin-right: 10rem;
   background-color: white;
+}
+
+/* Mid Styles */
+
+.mid .content {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.mid .paper {
+  width: 3.5rem;
+  height: auto;
+  margin-right: 6rem;
+
+}
+
+.mid .ruler {
+  width: 5rem;
+  height: auto;
+  margin-right: 6rem;
+  padding-bottom: 1.8rem;
+}
+
+.mid .truck {
+  width: 5rem;
+  height: auto;
+  padding-bottom: 1rem;
 }
